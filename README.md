@@ -12,7 +12,6 @@ Rules:
 
 ### How to create an Applet
 
-Dillinger uses a number of open source projects to work properly:
 * [Tutorial](https://www.javatpoint.com/java-applet) - Follow these steps.
 
 To execute the applet by appletviewer tool, write in command prompt.
